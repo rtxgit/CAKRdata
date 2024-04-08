@@ -1,0 +1,12 @@
+task_to_task_matrix.npy filter=lfs diff=lfs merge=lfs -text
+text_of_papers.json filter=lfs diff=lfs merge=lfs -text
+README.txt filter=lfs diff=lfs merge=lfs -text
+code_kg_final.txt filter=lfs diff=lfs merge=lfs -text
+paper_kg_final.txt filter=lfs diff=lfs merge=lfs -text
+paper_text_embed.npy filter=lfs diff=lfs merge=lfs -text
+ratings_final.txt filter=lfs diff=lfs merge=lfs -text
+task_text_embed.npy filter=lfs diff=lfs merge=lfs -text
+text_of_tasks.json filter=lfs diff=lfs merge=lfs -text
+total_kg_final.txt filter=lfs diff=lfs merge=lfs -text
+code_list.npy filter=lfs diff=lfs merge=lfs -text
+task_to_subtask_matrix.npy filter=lfs diff=lfs merge=lfs -text
